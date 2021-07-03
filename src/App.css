@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.counter{
+  display: flex;
+  width: 50vw;
+  margin: auto;
+  justify-content: space-around;
+}
+.heading{
+  margin-bottom: 100px;
+}
